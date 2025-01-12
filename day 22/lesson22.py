@@ -146,7 +146,7 @@ print("This line is enabled and will run")
 # division_result = age / height  # 25 / 5.9 ≈ 4.24
 
 #  Concatenating strings
-# full_name = name + "Kuchava"  # "Nikolozi" + "Kuchava" = "Nikolozi Kuchava"
+# full_name = name + "Lomidze"  # "Dato" + "Lomdize" = "Dato Lomidze"
 
 # Boolean operations
 # is_adult = age >= 18  # True
@@ -159,8 +159,8 @@ print("This line is enabled and will run")
 # print(age != 30)  # 25 != 30 -> True
 
 # Comparing strings
-# print(name == "Nikolozi")  # "Nikolozi" == "Nikolozi" -> True
-# print(name != "Giorgi")  # "Nikolozi" != "Giorgi" -> True
+# print(name == "Dato")  # "Dato" == "Dato" -> True
+# print(name != "Giorgi")  # "Dato" != "Giorgi" -> True
 
 # Comparing boolean values
 # print(is_student == True)  # True == True -> True
